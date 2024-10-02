@@ -1,0 +1,6 @@
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Logikai\bin\Debug\Logikai.exe.config
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Logikai\bin\Debug\Logikai.exe
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Logikai\bin\Debug\Logikai.pdb
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Logikai\obj\Debug\Logikai.csproj.CoreCompileInputs.cache
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Logikai\obj\Debug\Logikai.exe
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Logikai\obj\Debug\Logikai.pdb
