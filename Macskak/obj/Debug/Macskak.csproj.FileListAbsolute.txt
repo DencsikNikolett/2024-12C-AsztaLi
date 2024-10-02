@@ -1,0 +1,7 @@
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Macskak\bin\Debug\Macskak.exe.config
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Macskak\bin\Debug\Macskak.exe
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Macskak\bin\Debug\Macskak.pdb
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Macskak\obj\Debug\Macskak.csproj.AssemblyReference.cache
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Macskak\obj\Debug\Macskak.csproj.CoreCompileInputs.cache
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Macskak\obj\Debug\Macskak.exe
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Macskak\obj\Debug\Macskak.pdb

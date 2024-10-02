@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teszt", "Teszt\Teszt.csproj", "{7D313F54-8C95-4973-B143-B443B963AF86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TobbElem", "TobbElem\TobbElem.csproj", "{29D426B9-D7BF-4565-8625-A2800D4BFF02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Macskak", "Macskak\Macskak.csproj", "{AA83E57F-EEBA-4F54-8CF4-0383E6B0C65A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7D313F54-8C95-4973-B143-B443B963AF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D313F54-8C95-4973-B143-B443B963AF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D313F54-8C95-4973-B143-B443B963AF86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D426B9-D7BF-4565-8625-A2800D4BFF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D426B9-D7BF-4565-8625-A2800D4BFF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D426B9-D7BF-4565-8625-A2800D4BFF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D426B9-D7BF-4565-8625-A2800D4BFF02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA83E57F-EEBA-4F54-8CF4-0383E6B0C65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA83E57F-EEBA-4F54-8CF4-0383E6B0C65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA83E57F-EEBA-4F54-8CF4-0383E6B0C65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA83E57F-EEBA-4F54-8CF4-0383E6B0C65A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

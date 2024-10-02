@@ -1,0 +1,7 @@
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Teszt\bin\Debug\Teszt.exe.config
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Teszt\bin\Debug\Teszt.exe
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Teszt\bin\Debug\Teszt.pdb
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Teszt\obj\Debug\Teszt.csproj.AssemblyReference.cache
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Teszt\obj\Debug\Teszt.csproj.CoreCompileInputs.cache
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Teszt\obj\Debug\Teszt.exe
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Teszt\obj\Debug\Teszt.pdb
