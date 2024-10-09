@@ -13,22 +13,24 @@ namespace Korhasab
             // A kör osztályok felhasználása
             #region 1. objektum
             // 1. Objektum
-            Kor k1 = new Kor(); //Objektum példány létrehozása üresen
-            k1.ReadSugar(15.0); // Sugár megadása
+            Teglalap k1 = new Teglalap();
+            k1.ReadAoldal(15.0); // Sugár megadása
+            k1.ReadBoldal(10.0); // Sugár megadása
             k1.SetKerulet(); //Kiszámoljuk a Kerületet
             k1.SetTerulet(); //Kiszámoljuk a Területet
 
-            Console.WriteLine($"A {k1.GetSugar()} sugarú kör kerülete {k1.GetKerulet()}, területe {k1.GetTerulet()} ");
+            Console.WriteLine($"A {k1.GetAold()}, {k1.GetBold()} oldalú téglalap kerülete {k1.GetKerulet()}, területe {k1.GetTerulet()} ");
             #endregion EOf 1. objektum
             #region 2. objektum
-            Kor k2 = new Kor(28.7);
+            Teglalap k2 = new Teglalap();
+            k1.ReadAoldal(25.0);
+            k1.ReadBoldal(20.0);
             k2.SetKerulet();
             k2.SetTerulet();
 
-            Console.WriteLine($"A {k2.GetSugar()} sugarú kör kerülete {k2.GetKerulet()}, területe {k2.GetTerulet()} ");
+            Console.WriteLine($"A {k2.GetAold()}, {k2.GetBold()}oldalú téglalap kerülete {k2.GetKerulet()}, területe {k2.GetTerulet()} ");
 
             #endregion EOf 2. objektum
-            
             Console.ReadKey();
 
         }

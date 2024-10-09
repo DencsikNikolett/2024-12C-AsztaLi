@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CCABF70A-1FCD-4C7B-A4BC-7A8DE419B8B6}</ProjectGuid>
+    <ProjectGuid>{483B1BD0-2D87-49FB-B727-F85A0605FEC7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Korhasab</RootNamespace>
-    <AssemblyName>Korhasab</AssemblyName>
+    <RootNamespace>teglalap</RootNamespace>
+    <AssemblyName>teglalap</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,7 +44,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="teglalap.cs" />
-    <Compile Include="kor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
