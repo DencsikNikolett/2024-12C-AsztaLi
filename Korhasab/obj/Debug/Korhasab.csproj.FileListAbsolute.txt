@@ -1,0 +1,7 @@
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Korhasab\bin\Debug\Korhasab.exe.config
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Korhasab\bin\Debug\Korhasab.exe
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Korhasab\bin\Debug\Korhasab.pdb
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Korhasab\obj\Debug\Korhasab.csproj.AssemblyReference.cache
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Korhasab\obj\Debug\Korhasab.csproj.CoreCompileInputs.cache
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Korhasab\obj\Debug\Korhasab.exe
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Korhasab\obj\Debug\Korhasab.pdb
