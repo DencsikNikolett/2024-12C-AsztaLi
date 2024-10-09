@@ -23,12 +23,12 @@ namespace Korhasab
             #endregion EOf 1. objektum
             #region 2. objektum
             Teglalap k2 = new Teglalap();
-            k1.ReadAoldal(25.0);
-            k1.ReadBoldal(20.0);
+            k2.ReadAoldal(25.0);
+            k2.ReadBoldal(20.0);
             k2.SetKerulet();
             k2.SetTerulet();
 
-            Console.WriteLine($"A {k2.GetAold()}, {k2.GetBold()}oldalú téglalap kerülete {k2.GetKerulet()}, területe {k2.GetTerulet()} ");
+            Console.WriteLine($"A {k2.GetAold()}, {k2.GetBold()} oldalú téglalap kerülete {k2.GetKerulet()}, területe {k2.GetTerulet()} ");
 
             #endregion EOf 2. objektum
             Console.ReadKey();
