@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Kor2.cs" />
     <Compile Include="teglalap.cs" />
     <Compile Include="kor.cs" />
     <Compile Include="Program.cs" />

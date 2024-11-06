@@ -12,13 +12,16 @@ namespace Korhasab
         //kör területét és kerületét
 
         //Osztályváltozók
+        //Osztályban lévő metodusok elérjék egymás--->objektum
+
 
         private double sugar,
             terulet,
             kerulet;
 
-        //Konstruktorok
-        public Kor() {}
+        //Konstruktorok(létrehoz)
+        //szerepe: példányosítás, az osztályból objektum példányokat hoz létre.
+        public Kor(){}
 
         public Kor(double r)
         {
@@ -26,8 +29,24 @@ namespace Korhasab
             this.sugar = r;
 
         }
+        //Public Metódusok
+        //Azt határozza meg hogy az osztályon kívül más osztályok is hozzáférnek.
+
+        //Private Metódusok
+        //Az osztályon kívül nem lehet látni,hozzá férni. 
+        //Egységbe zárás, csak ellenörzötten metóduson keresztül férhetek hozzá.
 
         //Metódusok
+        //Van láthatóságuk, van visszatérési értékük(metodus futása után vissza ad egy adott értéket), 
+        //a 'void'-nál nincs vissza adott érték azaz null.
+
+        //Paraméter lista
+        //Formális paraméter: amelyek a deklarációban szerepelnek '(double r)'.
+        //Aktuális paraméter: konkrétan meg adom az értéket.
+
+        //A változónak két metódussal is tudunk értéket adni!
+
+
 
         public void ReadSugar(double r)
         {
