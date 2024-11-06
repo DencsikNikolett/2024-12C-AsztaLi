@@ -15,7 +15,7 @@ namespace Korhasab
         //Osztályban lévő metodusok elérjék egymás--->objektum
 
 
-        private double sugar,
+        protected double sugar,
             terulet,
             kerulet;
 

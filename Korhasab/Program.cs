@@ -31,6 +31,10 @@ namespace Korhasab
             Kor2 k5 = new Kor2(29.5);
             Console.WriteLine($"\n\nA kör2 adatai: \nsugár={k5.GetSugar()}, \nKerület={k5.GetKerulet()}, \nTerület={k5.GetTerulet()}");
             #endregion EOf Kor2 hasznalata
+            #region Henger
+            Henger h1 = new Henger(15, 40);
+            Console.WriteLine($"\n\nHenger adatai:\nsugara={h1.GetSugar()}, magasság={h1.GetMagassag()},\nalapterülete={h1.GetTerulet()}, \ntérfogat={h1.GetTerfogat()}.");
+            #endregion EOf Henger
 
             Console.ReadKey();
 
