@@ -1,0 +1,7 @@
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Kivetel\obj\Debug\Kivetel.csproj.AssemblyReference.cache
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Kivetel\obj\Debug\Kivetel.csproj.CoreCompileInputs.cache
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Kivetel\bin\Debug\Kivetel.exe.config
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Kivetel\bin\Debug\Kivetel.exe
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Kivetel\bin\Debug\Kivetel.pdb
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Kivetel\obj\Debug\Kivetel.exe
+C:\Users\2021126\Source\Repos\DencsikNikolett\2024-12C-AsztaLi\Kivetel\obj\Debug\Kivetel.pdb
