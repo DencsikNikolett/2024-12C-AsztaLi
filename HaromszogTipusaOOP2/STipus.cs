@@ -10,7 +10,7 @@ namespace HaromszogTipusaOOP2
     {
         private int a, b, c;
 
-        public HTipus(int a, int b, int c)
+        public STipus(int a, int b, int c)
         {
             this.a = a;
             this.b = b;
@@ -53,7 +53,7 @@ namespace HaromszogTipusaOOP2
     {
         static void Main(string[] args)
         {
-            HTipus haromszog1 - new HTipus(1, 4, 5);
+            HTipus haromszog1 - new STipus(1, 4, 5);
             Console.WriteLine($"Érvényes háromszög: {haromszog1.ErvenyesHaromszog()}"); 
             Console.WriteLine($"Érvényes háromszög: {haromszog1.ErvenyesHaromszog()}");
             Console.WriteLine($"Érvényes háromszög: {haromszog1.ErvenyesHaromszog()}");
