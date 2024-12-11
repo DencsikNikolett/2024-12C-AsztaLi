@@ -4,7 +4,7 @@ namespace HaromszogTipusaOOP2
 {
     public class HTipus
     {
-        protected int a, b, c;
+        protected int a, b, c; 
 
         public HTipus(int a, int b, int c)
         {

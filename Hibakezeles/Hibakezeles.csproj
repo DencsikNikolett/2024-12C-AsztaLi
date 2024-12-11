@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8B15F3C4-DAB1-44C7-B7CB-86D87DBD2329}</ProjectGuid>
+    <ProjectGuid>{0AD5D046-50FD-40E7-8D6D-0BC6D0092EE3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HaromszogTipusaOOP2</RootNamespace>
-    <AssemblyName>HaromszogTipusaOOP2</AssemblyName>
+    <RootNamespace>Hibakezeles</RootNamespace>
+    <AssemblyName>Hibakezeles</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="hibakezeles.cs" />
-    <Compile Include="SHTipus.cs" />
-    <Compile Include="HTipus.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="STipus.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
