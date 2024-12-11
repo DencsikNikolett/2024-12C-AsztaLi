@@ -18,12 +18,12 @@ namespace HaromszogTipusaOOP2
         {
             public static void Main()
             {
-                try
+                try//próba
                 {
                     HTipus haromszog1 = new HTipus(3, 4, 5);
                     haromszog1.Kiir();
                 }
-                catch (Exception ex)
+                catch (Exception ex)//megfogom
                 {
                     Console.WriteLine($"Hiba: {ex.Message}");
                 }
